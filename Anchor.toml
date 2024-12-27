@@ -5,7 +5,9 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
+calculator = "5HUcbqi5fyD1jcjr2vABFuUANc4B844hyjVA5aQuZ6M8"
 hello_solana = "5zTm3fAwh2CXe7HHLT9aRzewm2kM453QQBSmKCaYdM6v"
+solana-pda = "BpxAoexMMi9UmA11W3nhhzQM3wXrVa5HGLksEn2U3z5X"
 
 [registry]
 url = "https://api.apr.dev"
